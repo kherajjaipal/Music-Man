@@ -86,3 +86,5 @@ This bot is based on the original work done by [Rojserbest](http://github.com/ro
 - [ImJanindu](https://github.com/ImJanindu): 
 - [MARSHALX](https://github.com/MarshalX): TgCalls
 - [Original Repo owners](https://github.com/CallsMusic/CallsMusic)
+
+- [owner] @k7_S_boy 
