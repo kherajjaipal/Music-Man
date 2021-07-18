@@ -28,6 +28,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_NAME = getenv("BOT_NAME")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "Lunatic0de")
 BG_IMAGE = getenv("BG_IMAGE", "https://telegra.ph/file/cd0b87484429704c7b935.png")
+
 admins = {}
 API_ID = int(getenv("API_ID", ""))
 API_HASH = getenv("API_HASH")
